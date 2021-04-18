@@ -1,0 +1,7 @@
+{
+  "title": "welcome to react and react-i18next",
+  "description": {
+    "part1": "yes, it is happening",
+    "part2": "No, its English"
+  }
+}
